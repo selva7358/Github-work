@@ -1,2 +1,1 @@
-# Github-work
-This repo shows all the command related to GITHUB
+This repository demonstrates my Git workflow, including essential version-control operations such as cloning a repository, checking file status, staging changes, committing updates, and pushing to a remote branch. It also outlines the branching strategy I use to manage features and code updates efficiently.
